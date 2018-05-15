@@ -25,7 +25,7 @@ SECRET_KEY = ')_80)(#p!*@$^h32oeut3!t6%$(oupdd#+0xv4zr&8-qybgu4q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["inquiamakchatbotsystem.herokuapp.com"]
+ALLOWED_HOSTS = ["inquiamakchatbot.herokuapp.com"]
 
 
 # Application definition
